@@ -25,7 +25,6 @@ body {
 .header__title {
   display: inline-block;
   max-width: 500px;
-  vertical-align: top;
 }
 
 .container {
